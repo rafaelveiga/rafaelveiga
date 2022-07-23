@@ -6,7 +6,7 @@ I live in São Paulo, Brazil.
 
 I've worked previously as an UI/UX Designer, providing great user experience for airline and logistics companies.
 
-I have 10 years of experience as a developer and a digital designer. My skills range from designing and creating a digital product to developing and publishing it in production.
+I have 10 years of experience as a fullstack developer and a digital designer. My skills range from designing and creating a digital product to developing and publishing it in production.
 
 ## 🧩 My Skills
 
