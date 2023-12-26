@@ -23,4 +23,4 @@ I live in São Paulo, Brazil and I have 10 years of experience as a fullstack de
 
 ## 🧩 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,styledcomponents,sass,figma,git,aws,docker,express,nextjs,nodejs,redis,tailwind&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,sass,figma,git,aws,docker,express,nextjs,nodejs,redis,tailwind,elixir&perline=8)](https://skillicons.dev)
