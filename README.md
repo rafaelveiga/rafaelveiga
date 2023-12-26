@@ -1,12 +1,18 @@
-## 👋 Hi, my name is Rafael Veiga
+## 👋 Hi, i'm Rafael Veiga
 
-I'm a fullstack developer currently working at Gamers Club Media, a group of esports websites.
+I'm a fullstack developer currently working at [Podium](https://www.podium.com/) in the Automations and Bulk Messaging team, developing multiple applications in a microservices pattern using Elixir, Javascript and React
 
-I live in São Paulo, Brazil.
+I've worked previously at [Gamers Club](https://gamersclub.com.br/) Media, which is a network of multiple esports websites (DRAFT5.gg, VALORANTZone.gg, TropaFreeFire.com.br)
 
-I've worked previously as an UI/UX Designer, providing great user experience for airline and logistics companies.
+This endeavor started on Jan/2017, where I created DRAFT5.gg as a side project. In the following years, DRAFT5.gg grew to be the largest CS:GO focused esports website in Latin America.
 
-I have 10 years of experience as a fullstack developer and as digital designer. My skills range from designing and creating a digital product to developing and publishing it in production.
+In Jun/2019, DRAFT5 was acquired by Gamers Club and Immortals Gaming Club. This has allowed me to pursue the development of DRAFT5 full-time in a multiple hat role working as fullstack developer and product designer
+
+Together with Gamers Club, we’ve expanded our operation to two more websites and a team of more than 20 professionals working for our network.
+
+With an average of 500.000 unique users and 3.2 million pageviews per month across all websites, Gamers Club Media has become one of the largest esports content networks in Latin America.
+
+I live in São Paulo, Brazil and I have 10 years of experience as a fullstack developer.
 
 - 📄 Get to know more about my experiences [rafaelveiga.github.io](rafaelveiga.github.io)
 
