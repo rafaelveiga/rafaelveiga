@@ -14,7 +14,7 @@ With an average of 500.000 unique users and 3.2 million pageviews per month acro
 
 I live in São Paulo, Brazil and I have 10 years of experience as a fullstack developer.
 
-- 📄 Get to know more about my experiences [rafaelveiga.github.io](rafaelveiga.github.io)
+- 📄 Get to know more about my experiences [rafaelveiga.github.io](https://rafaelveiga.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
